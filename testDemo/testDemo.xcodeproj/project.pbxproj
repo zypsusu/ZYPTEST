@@ -16,7 +16,6 @@
 		4FC7D93A1DD98E7C00D24044 /* testDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4FC7D9391DD98E7C00D24044 /* testDemoTests.m */; };
 		4FC7D9451DD98E7C00D24044 /* testDemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4FC7D9441DD98E7C00D24044 /* testDemoUITests.m */; };
 		4FC7D9551DD98EA100D24044 /* AFNNN.m in Sources */ = {isa = PBXBuildFile; fileRef = 4FC7D9541DD98EA100D24044 /* AFNNN.m */; };
-		4FC7D9581DD9995E00D24044 /* hello.m in Sources */ = {isa = PBXBuildFile; fileRef = 4FC7D9571DD9995E00D24044 /* hello.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,8 +54,6 @@
 		4FC7D9461DD98E7C00D24044 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4FC7D9531DD98EA100D24044 /* AFNNN.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFNNN.h; sourceTree = "<group>"; };
 		4FC7D9541DD98EA100D24044 /* AFNNN.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFNNN.m; sourceTree = "<group>"; };
-		4FC7D9561DD9995E00D24044 /* hello.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = hello.h; sourceTree = "<group>"; };
-		4FC7D9571DD9995E00D24044 /* hello.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = hello.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -152,8 +149,6 @@
 			children = (
 				4FC7D9531DD98EA100D24044 /* AFNNN.h */,
 				4FC7D9541DD98EA100D24044 /* AFNNN.m */,
-				4FC7D9561DD9995E00D24044 /* hello.h */,
-				4FC7D9571DD9995E00D24044 /* hello.m */,
 			);
 			path = ZYPAFN;
 			sourceTree = "<group>";
@@ -291,7 +286,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4FC7D9581DD9995E00D24044 /* hello.m in Sources */,
 				4FC7D9271DD98E7C00D24044 /* ViewController.m in Sources */,
 				4FC7D9241DD98E7C00D24044 /* AppDelegate.m in Sources */,
 				4FC7D9211DD98E7C00D24044 /* main.m in Sources */,
