@@ -105,7 +105,7 @@ pod spec create PrivateSpecDemopod spec create PrivateSpecDemo
   #  non-essential files like tests, examples and documentation.
   #
   # s.resource  = "icon.png"
-   s.resources = "testDemo/testDemo/image.bundle/*.png"
+   s.resources = "testDemo/testDemo/image.bundle"
 
   # s.preserve_paths = "FilesToSave", "MoreFilesToSave"
 
