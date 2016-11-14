@@ -9,5 +9,6 @@
 #import <UIKit/UIKit.h>
 
 @interface AFNNN : UIView
-
++ (NSString *)initWithName;
+    
 @end

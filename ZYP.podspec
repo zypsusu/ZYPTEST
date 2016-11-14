@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "ZYP"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = " of ZYP."
 
   # This description is used to generate tags and improve search results.
@@ -105,7 +105,7 @@ pod spec create PrivateSpecDemopod spec create PrivateSpecDemo
   #  non-essential files like tests, examples and documentation.
   #
   # s.resource  = "icon.png"
-  # s.resources = "Resources/*.png"
+   s.resources = "testDemo/testDemo/image.bundle/*.png"
 
   # s.preserve_paths = "FilesToSave", "MoreFilesToSave"
 
