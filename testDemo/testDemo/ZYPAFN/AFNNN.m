@@ -14,4 +14,8 @@
  return @"hello, world";
 }
 
++ (void)getsellletrtr{
+    NSLog(@"hsfhsklfa");
+}
+
 @end

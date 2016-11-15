@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "ZYP"
-  s.version      = "0.0.3"
+  s.version      = "0.0.5"
   s.summary      = " of ZYP."
   s.description  = <<-DESC
 pod spec create PrivateSpecDemopod spec create PrivateSpecDemo

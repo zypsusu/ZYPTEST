@@ -10,5 +10,5 @@
 
 @interface AFNNN : UIView
 + (NSString *)initWithName;
-    
++ (void)getsellletrtr;
 @end
